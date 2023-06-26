@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RealEstateWebApplication
+build_property.RootNamespace = RealEstateWebApplication
+build_property.ProjectDir = C:\Users\Алексей\Downloads\RealEstateWebApplication\RealEstateWebApplication\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Алексей\Downloads\RealEstateWebApplication\RealEstateWebApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Owners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Owners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Owners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Owners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Owners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Realties/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHRpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Realties/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHRpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Realties/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHRpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Realties/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHRpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Realties/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHRpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/RealtyOwners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHR5T3duZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/RealtyOwners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHR5T3duZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/RealtyOwners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHR5T3duZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/RealtyOwners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHR5T3duZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/RealtyOwners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHR5T3duZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Types/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Types/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Types/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Types/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Types/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Алексей/Downloads/RealEstateWebApplication/RealEstateWebApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-me2dy1dd4e
